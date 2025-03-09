@@ -39,5 +39,5 @@ The primary aim was empower the decision-makers of Adidas with data-driven insig
 - Total operating profit from both the years (2020-2021) is $332 Million.
 - Total Units from entire stores from every locations is 2 Million Which is good Amount.
 - The highest sales were recorded in the month of July.
- - Maximum number of Sales is done West Gear Retailer.
+ - Maximum number of Sales is done by West Gear Retailer.
 - New York is state with highest number of sales.
