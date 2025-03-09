@@ -35,8 +35,9 @@ The primary aim was empower the decision-makers of Adidas with data-driven insig
 ![Screenshot(495)](https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-08%20195301.png)
 
 # Project Insights 
-- Phones are more likely to be first priority of the customers.
-- Tamara Chand, Raymond Buch, Sanjit Chand, Hunter Lopez, Adrain Barton are top 5 Customers.
-- 16.50% of Customer Count is being Increased in last 4 years.
-- Maximum number of Sales is done under Technology Category.
-- California is state with highest number of sales.
+- Men's street Footwear are more likely to be first priority of the customers.
+- Total operating profit from both the years (2020-2021) is $332 Million.
+- Total Units from entire stores from every locations is 2 Million Which is good Amount.
+- The highest sales were recorded in the month of July.
+ - Maximum number of Sales is done West Gear Retailer.
+- New York is state with highest number of sales.
