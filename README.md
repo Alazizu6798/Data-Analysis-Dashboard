@@ -19,7 +19,7 @@ The primary aim was empower the decision-makers of Adidas with data-driven insig
 - Sales Volume Analysis : Examine the total units sold to gain insights into product demand.
 - Pricing Strategy : Determine the average price per unit to assess the pricing startegy.
 - Margin Analysis : Evaluate the margin to understand the overall profitability of sales.
-- Dashboard Interaction <a href="https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-08%20195301.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Adidas%20Sales%20Analysis.pbix">View Dashboard</a>
 
 # Process
 - Verified data for any  missing values and anomalies , and sort out the same.
