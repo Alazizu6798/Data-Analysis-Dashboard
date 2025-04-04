@@ -7,10 +7,10 @@ The primary aim was empower the decision-makers of Adidas with data-driven insig
  - <a href="https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Adidas%20US%20Sales%20Datasets.xlsx">Sales Data</a>
 # Business Requirements
 
-- Enhanced understanging of sales dynamics and performance drivers.
+- Enhance understanging of sales dynamics and performance drivers.
 - Identification of Geographical areas with high and low sales potential.
-- Insightsinto product performance, aiding in inventory and marketing decisions.
-- Informed pricing and margin strategies for improved profitability.
+- Privide insight into product performance, aiding in inventory and marketing decisions.
+- Inform pricing and margin strategies for improved profitability.
 - Actionable recommendation for optimizing sales and profit across various dimensions.
 # Question (KPIs)
 
@@ -22,8 +22,8 @@ The primary aim was empower the decision-makers of Adidas with data-driven insig
 - Dashboard Interaction <a href="https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Adidas%20Sales%20Analysis.pbix">View Dashboard</a>
 
 # Process
-- Verified data for any  missing values and anomalies , and sort out the same.
-- Made sure that data is clean and consistent with respect to data type, data format and values used.
+- Verified data for any  missing values and anomalies.
+- Checked whether data is clean and consistent with respect to data type, data format and values used.
 - Used KPI card to display business requirements according to the questions asked.
 - Used Area chart to show the monthly distribution of totale sales to identify peak periods.
 - Used Filled Map to represent total sales across different regions to total sales.
@@ -37,7 +37,7 @@ The primary aim was empower the decision-makers of Adidas with data-driven insig
 # Project Insights 
 - Men's street Footwear are more likely to be first priority of the customers.
 - Total operating profit from both the years (2020-2021) is $332 Million.
-- Total Units from entire stores from every locations is 2 Million Which is good Amount.
+- Total Units from entire stores is 2 Million Which is good in amount.
 - The highest sales were recorded in the month of July.
  - Maximum number of Sales is done by West Gear Retailer.
-- New York is state with highest number of sales.
+- New York is the state with the highest number of sales.
